@@ -1,0 +1,10 @@
+# Środowisko wirtualne
+venv/
+env/
+
+# Pliki tymczasowe Pythona
+__pycache__/
+*.pyc
+
+# (Opcjonalnie) jeśli nie chcesz wrzucać wygenerowanego PDF-a, dodaj:
+# *.pdf
